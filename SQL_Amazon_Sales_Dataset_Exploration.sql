@@ -81,6 +81,7 @@ GROUP BY rating_range
 
 -----------------------------------------------------------------------------------------------------   
 /* How many products have both a review title and a review content? */
+    
 SELECT COUNT(DISTINCT product_id) AS products 
 FROM amazon 
 WHERE review_title IS NOT NULL AND review_content IS NOT NULL
