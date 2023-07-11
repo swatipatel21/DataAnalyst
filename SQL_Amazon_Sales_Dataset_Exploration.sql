@@ -2,7 +2,7 @@
 Amazon_Sales_Data exploration.
 Dataset used from Kaggle (https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
-SQL skills used - select, group by, order by, limit, top, case, aggregate functions.
+SQL skills used - select, group by, order by, limit, top, case and aggregate functions.
 */
 
 ----------------------------------------------------------------------------------------------------
