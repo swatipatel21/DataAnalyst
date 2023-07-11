@@ -1,3 +1,10 @@
+/*
+Youtube_Statistics exploration.
+Dataset used from Kaggle (https://www.kaggle.com/datasets/advaypatil/youtube-statistics?select=comments.csv)
+
+SQL skills used - join, views, index, select, group by, order by, limit, top, case, and aggregate functions.
+*/
+
 /*Which videos have the highest combined number of likes and comments?*/
 
 SELECT video_id, title, SUM(likes+comments) as combined_number_of_likes_comments
