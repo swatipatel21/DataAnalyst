@@ -7,6 +7,7 @@ SQL_Youtube_Statistics_Data_Exploration.sql - [Review](https://github.com/swatip
 # Find the following Excel files used for Covid 19 data exploration in SQL:
 
 CovidDeaths.xlsx [Review](https://github.com/swatipatel21/DataAnalyst-SQL/blob/main/CovidDeaths.xlsx)
+
 CovidVaccinations.xlsx [Review](https://github.com/swatipatel21/DataAnalyst-SQL/blob/main/CovidVaccinations.xlsx)
 
 Covid 19 data exploration.sql [Review](https://github.com/swatipatel21/DataAnalyst-SQL/blob/main/Covid%2019%20data%20exploration.sql)
